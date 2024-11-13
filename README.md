@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aryadoshii
-- 👀 I’m interested in not coding.
 - 🌱 I’m currently learning DSA, OOP, SQL and Data Science.
 - 💞️ I’m looking to collaborate on projects on AI and ML 
 - 📫 Reach me on Linkden- https://www.linkedin.com/in/arya-doshi-3837aa249/
