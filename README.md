@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=160&section=header&text=Hi%20there!%20I'm%20Arya%20Doshi%20🚀&fontSize=30&fontAlignY=35&desc=Machine%20Learning%20%7C%20Java%20%7C%20Cloud%20%7C%20Student%20Researcher&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=160&section=header&text=Hi%20there!%20I'm%20Arya%20Doshi%20🚀&fontSize=30&fontAlignY=35&desc=Java%20%7C%20Python%20%7C%20Finance%20Enthusiast%20%7C%20Student%20Researcher&descAlignY=55" />
 </p>
+
 
 ## 👨‍🎓 About Me
 
