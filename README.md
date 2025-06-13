@@ -38,6 +38,24 @@
 
 ## 🚀 Featured Projects
 
+### 🏥 Automated Clinical Documentation Platform
+> Comprehensive NLP pipeline for automating clinical trial documentation using large language models.
+- 🤖 Specialized prompt optimization achieving 89% reduction in manual oversight
+- 📋 Robust assessment framework ensuring regulatory compliance
+- 🔄 RESTful API integration with containerized deployment
+- 🛠️ `Python, LangChain, Hugging Face Transformers, Docker`
+
+---
+
+### 📞 Intelligent Telecom Support System
+> Multi-layer intelligent support platform integrating RAG with conversational AI for telecom diagnostics.
+- 🧠 Domain-specific model fine-tuning with 43% diagnostic precision enhancement
+- 📈 Adaptive user proficiency system reducing escalation incidents by 37%
+- 🔍 Vector database integration for enhanced retrieval-augmented generation
+- 🛠️ `Python, PyTorch, Vector Databases, AWS Lambda`
+
+---
+
 ### 🧠 MedSynGAN: Federated GAN System for Synthetic Medical Images
 > A secure, privacy-aware GAN system to generate synthetic chest X-rays using federated learning.
 - 🚀 Used DCGAN & ProGAN for training
@@ -76,10 +94,37 @@
 
 ---
 
-## 📑 Publications
+### 🔬 Distributed Medical Image Synthesis Framework
+> Secure federated learning architecture for generating synthetic medical imagery while preserving data privacy.
+- 🔒 Enhanced distributed training infrastructure with 40% performance gains
+- 🏥 Cross-dataset coordination for medical image generation
+- 🐳 Containerized deployment for scalable distributed training
+- 🛠️ `Python, TensorFlow, Flower Framework, Docker, Git`
 
-📘 **MedSynGAN: A Federated GAN System for Medical Imaging**  
-*Presented at CVR Emerging Technologies 2025 | Best Paper Award Winner*
+---
+
+## 📑 Publications & Patents
+
+### 📚 Publications
+
+📘 **MedSynGAN: A Federated GAN System for Generating Synthetic Medical Images**  
+*International Conference on Computer Vision and Robotics (CVR) 2025*  
+*Presented at NIT GOA | Best Paper Award Winner - Emerging Technologies Category*
+
+📊 **AI and ML models in Cross-Asset Class Investment Risk Analysis: A Case Study of Real Estate and Equities Markets**  
+*International Conference on Self Sustainable Artificial Intelligence Systems*  
+*Research explores Mean-Variance Optimization (MVO) and advanced AI/ML models for efficient investment portfolios*
+
+🔒 **Intelligent and Secure Cloud CRM: Overcoming Compliance and Automation Challenges in Regulated Industries**  
+*International Conference on Circuits, Systems and Simulation 2025*  
+*Focus on compliance automation and security challenges in cloud-based CRM systems*
+
+### 🛡️ Patents
+
+⚡ **AN IOT-ENABLED ENERGY METER FOR REAL-TIME ELECTRICITY MONITORING AND MANAGEMENT**  
+*Patent Application No. 20252100482 A | Filed: 17/01/2025 | Published: 14/02/2025*  
+*Vishwakarma Institute of Technology, Pune*  
+*IoT-enabled smart energy meter with PZEM-004T module and NodeMCU for real-time electricity monitoring, predictive analytics, and sustainable energy management*
 
 ---
 
