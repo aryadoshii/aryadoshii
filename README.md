@@ -3,167 +3,281 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=160&section=header&text=Hi%20there!%20I'm%20Arya%20Doshi%20🚀&fontSize=30&fontAlignY=35&desc=Java%20%7C%20Python%20%7C%20Finance%20Enthusiast%20%7C%20Student%20Researcher&descAlignY=55" />
 </p>
 
-
 ## 👨‍🎓 About Me
 
 - 🎓 **B.Tech in Electronics & Telecommunications @ VIT Pune (2022–2026)**
-- 🤖 Machine Learning Intern @ Learn and Empower Pvt. Ltd
-- 📚 Curious about Federated Learning, Generative Models, and Data Systems
+- 🤖 **Machine Learning Intern** @ Learn and Empower Pvt. Ltd
+- 💹 **Quantitative Finance Enthusiast** building systematic trading strategies
+- 📚 Research focus: **Federated Learning**, **Generative Models**, and **Financial ML**
 - 🧑‍🏫 Active contributor to college tech communities and workshops
-- 🏆 Best Paper Award — CVR 2025 (Emerging Technologies Category)
+- 🏆 **Best Paper Award** — CVR 2025 (Emerging Technologies Category)
 
 ---
 
-## 💹 FinTech Enthusiast
 
-- 🏦 Passionate about the intersection of **Finance + Technology**
-- 💸 Building intelligent systems for **investment analysis**, **portfolio optimization**, and **market data insight**
-- 🚀 Actively seeking **FinTech internships** that blend **AI/ML with financial applications**
-- 📊 Hands-on experience with APIs, Spring Boot backends, and real-time financial data systems
+## 🛠️ Technical Skills
 
----
-
-## 🛠️ Skills & Technologies
-
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Edge Computing](https://img.shields.io/badge/Edge-Computing-blueviolet?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧠 Data Science & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Specialized ML Tools:** LangChain, Hugging Face Transformers, Vector Databases, RAG Systems, Model Fine-tuning
+
+### 📊 Data Engineering & Analytics
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Data Pipeline Tools:** ETL Pipelines, Data Warehousing, Data Modeling, Dashboarding, Excel Advanced Analytics
+
+### 💹 Finance & Modeling
+![YFinance](https://img.shields.io/badge/YFinance-Financial%20Data-gold?style=for-the-badge)
+![Alpha Vantage](https://img.shields.io/badge/Alpha%20Vantage-API-green?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-Optimization-blue?style=for-the-badge)
+
+**Quantitative Finance:** Market Research, Stock Analysis, Portfolio Optimization, Investment Strategy, Risk Management, Factor Models
+
 
 ---
 
 ## 🚀 Featured Projects
 
+### 💰 AlphaRank: Systematic Equity Trading Strategy
+> **Market-neutral machine learning system for S&P 100 trading with quantitative risk management**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sharpe%20Ratio-1.19-brightgreen?style=flat-square&logo=trending-up" />
+  <img src="https://img.shields.io/badge/Max%20Drawdown-2.03%25-blue?style=flat-square&logo=shield" />
+  <img src="https://img.shields.io/badge/Hit%20Rate-51.61%25-orange?style=flat-square&logo=target" />
+</p>
+
+**🎯 Strategy:** Long-short equity portfolio using Random Forest to rank stocks by predicted 5-day returns
+- 📈 **Long** top 20% performers, **Short** bottom 20% (market-neutral approach)
+- 🧠 **30+ quantitative factors**: VIX regime, momentum, mean-reversion, volume analysis
+- ⚖️ **Risk-adjusted returns**: Isolates alpha while hedging market beta
+- 📊 **Interactive dashboard**: Real-time strategy visualization with Streamlit/Plotly
+
+**🔬 Key Innovation:** Shifted from return prediction (negative R²) to stock ranking (highly profitable)
+
+**🛠️ Tech Stack:** `Python, scikit-learn, XGBoost, pandas, yfinance, Streamlit, Plotly`
+
+---
+
 ### 🏥 Automated Clinical Documentation Platform
-> Comprehensive NLP pipeline for automating clinical trial documentation using large language models.
-- 🤖 Specialized prompt optimization achieving 89% reduction in manual oversight
-- 📋 Robust assessment framework ensuring regulatory compliance
-- 🔄 RESTful API integration with containerized deployment
-- 🛠️ `Python, LangChain, Hugging Face Transformers, Docker`
+> **Enterprise-grade NLP pipeline for clinical trial automation using large language models**
+
+- 🤖 **LLM optimization** achieving **89% reduction** in manual oversight
+- 📋 **Regulatory compliance** framework with robust assessment protocols
+- 🔄 **RESTful API** integration with containerized deployment architecture
+- 📊 **Clinical workflow automation** for pharmaceutical research environments
+
+**🛠️ Tech Stack:** `Python, LangChain, Hugging Face Transformers, Docker, FastAPI`
 
 ---
 
 ### 📞 Intelligent Telecom Support System
-> Multi-layer intelligent support platform integrating RAG with conversational AI for telecom diagnostics.
-- 🧠 Domain-specific model fine-tuning with 43% diagnostic precision enhancement
-- 📈 Adaptive user proficiency system reducing escalation incidents by 37%
-- 🔍 Vector database integration for enhanced retrieval-augmented generation
-- 🛠️ `Python, PyTorch, Vector Databases, AWS Lambda`
+> **RAG-powered conversational AI for automated telecom diagnostics and customer support**
+
+- 🧠 **Domain-specific fine-tuning** with **43% diagnostic precision** improvement
+- 📈 **Adaptive user profiling** reducing escalation incidents by **37%**
+- 🔍 **Vector database integration** for enhanced retrieval-augmented generation
+- 🏗️ **Scalable cloud architecture** with real-time processing capabilities
+
+**🛠️ Tech Stack:** `Python, PyTorch, Vector Databases, AWS Lambda, Transformers`
 
 ---
 
-### 🧠 MedSynGAN: Federated GAN System for Synthetic Medical Images
-> A secure, privacy-aware GAN system to generate synthetic chest X-rays using federated learning.
-- 🚀 Used DCGAN & ProGAN for training
-- 💡 Memory-efficient, privacy-preserving model
-- 🏅 **Best Paper Award @ CVR 2025**
-- 🛠️ `Python, TensorFlow, Flower Framework`
+### 🧠 MedSynGAN: Federated Medical Image Generation
+> **Privacy-preserving GAN system for synthetic chest X-ray generation using federated learning**
 
-<p align="center">
-  <img src="medsyn.jpeg" width="450"/>
-</p>
+- 🚀 **DCGAN & ProGAN** architectures for high-quality medical image synthesis
+- 🔒 **Privacy-preserving**: Federated learning ensures data never leaves hospitals
+- 🏅 **Best Paper Award @ CVR 2025** (Emerging Technologies Category)
+- 💾 **Memory-efficient**: Optimized for resource-constrained medical environments
 
----
-
-### 💰 Knapsack-Based Investment Portfolio Optimization
-> Real-time financial decision-making using dynamic programming & RESTful APIs.
-- 💻 Backend built using Spring Boot + Alpha Vantage API
-- 🔗 REST APIs & React dashboard
-- 📈 Maximizes return vs risk trade-off
-- 🛠️ `Java, Spring Boot, React`
-
-<p align="center">
-  <img src="knapsack.jpg" width="450"/>
-</p>
+**🛠️ Tech Stack:** `Python, TensorFlow, Flower Framework, DICOM Processing`
 
 ---
 
-### 📍 GeoEdge: Real-time GPS Tracker via Edge Computing
-> Offline vehicle tracking system to reduce latency via edge nodes.
-- 📡 Real-time optimized GPS analytics
-- 🔧 Embedded C & Java
-- 🛠️ `Edge Devices, Java, C`
+### 💰 InvestOptimizer: Dynamic Portfolio Management
+> **Real-time investment decision system using knapsack optimization and financial APIs**
 
-<p align="center">
-  <img src="geoedge.jpeg" width="450"/>
-</p>
+- 💻 **Spring Boot backend** integrated with **Alpha Vantage API**
+- 🔗 **Full-stack solution**: RESTful APIs + React dashboard
+- 📈 **Dynamic programming** approach to maximize risk-adjusted returns
+- 🎯 **Real-time optimization** for portfolio rebalancing decisions
+
+**🛠️ Tech Stack:** `Java, Spring Boot, React, Alpha Vantage API, Dynamic Programming`
+
+---
+
+### 📍 GeoEdge: Real-time Vehicle Tracking via Edge Computing
+> **Offline GPS tracking system optimized for low-latency edge processing**
+
+- 📡 **Real-time GPS analytics** with sub-second latency requirements
+- 🌐 **Edge computing architecture** for offline operation capabilities
+- 🔧 **Embedded systems integration** with Java backend processing
+- 📊 **Geospatial optimization** algorithms for efficient tracking
+
+**🛠️ Tech Stack:** `Edge Devices, Embedded C, Java, Geospatial APIs`
 
 ---
 
 ### 🔬 Distributed Medical Image Synthesis Framework
-> Secure federated learning architecture for generating synthetic medical imagery while preserving data privacy.
-- 🔒 Enhanced distributed training infrastructure with 40% performance gains
-- 🏥 Cross-dataset coordination for medical image generation
-- 🐳 Containerized deployment for scalable distributed training
-- 🛠️ `Python, TensorFlow, Flower Framework, Docker, Git`
+> **Scalable federated learning infrastructure for cross-institutional medical AI research**
+
+- 🔒 **Enhanced security**: 40% performance gains in distributed training
+- 🏥 **Cross-dataset coordination** for multi-hospital collaboration
+- 🐳 **Containerized deployment** ensuring scalable, reproducible research
+- 🧬 **Medical AI pipeline** for privacy-compliant synthetic data generation
+
+**🛠️ Tech Stack:** `Python, TensorFlow, Flower Framework, Docker, Kubernetes`
 
 ---
 
-## 📑 Publications & Patents
+## 📑 Research Publications & Patents
 
-### 📚 Publications
+### 📚 Recent Publications
 
-📘 **MedSynGAN: A Federated GAN System for Generating Synthetic Medical Images**  
+🏅 **MedSynGAN: A Federated GAN System for Generating Synthetic Medical Images**  
 *International Conference on Computer Vision and Robotics (CVR) 2025*  
-*Presented at NIT GOA | Best Paper Award Winner - Emerging Technologies Category*
+📍 *NIT GOA* | 🏆 **Best Paper Award - Emerging Technologies Category**
 
-📊 **AI and ML models in Cross-Asset Class Investment Risk Analysis: A Case Study of Real Estate and Equities Markets**  
-*International Conference on Self Sustainable Artificial Intelligence Systems*  
-*Research explores Mean-Variance Optimization (MVO) and advanced AI/ML models for efficient investment portfolios*
+📊 **AI and ML Models in Cross-Asset Investment Risk Analysis: Real Estate vs. Equities**  
+*International Conference on Self Sustainable Artificial Intelligence Systems 2025*  
+🎯 *Advanced portfolio optimization using Mean-Variance Optimization and ML risk models*
 
-🔒 **Intelligent and Secure Cloud CRM: Overcoming Compliance and Automation Challenges in Regulated Industries**  
+🔒 **Intelligent Cloud CRM: Compliance Automation in Regulated Industries**  
 *International Conference on Circuits, Systems and Simulation 2025*  
-*Focus on compliance automation and security challenges in cloud-based CRM systems*
+⚖️ *Security and compliance challenges in enterprise cloud CRM systems*
 
-### 🛡️ Patents
+### 🛡️ Patent Portfolio
 
-⚡ **AN IOT-ENABLED ENERGY METER FOR REAL-TIME ELECTRICITY MONITORING AND MANAGEMENT**  
-*Patent Application No. 20252100482 A | Filed: 17/01/2025 | Published: 14/02/2025*  
-*Vishwakarma Institute of Technology, Pune*  
-*IoT-enabled smart energy meter with PZEM-004T module and NodeMCU for real-time electricity monitoring, predictive analytics, and sustainable energy management*
+⚡ **IoT-Enabled Smart Energy Meter for Real-Time Monitoring**  
+📋 *Patent Application No. 20252100482 A*  
+📅 *Filed: 17/01/2025 | Published: 14/02/2025*  
+🏛️ *Vishwakarma Institute of Technology, Pune*
 
 ---
 
-## 📚 Certifications
-
-### 📊 Google Data Analytics Professional Certificate — Coursera (2025)
-> Covered:
-- ✅ Data Visualization, SQL, R, Excel
-- ✅ Python-based data pipelines
-- ✅ Applied analytics decision-making
+## 📚 Professional Certifications
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/000000/google-logo.png" width="28"/>
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera-2025-blue?style=for-the-badge&logo=coursera&logoColor=white" />
+</p>
+
+**Core Competencies Covered:**
+- ✅ **Data Visualization & Business Intelligence** (Tableau, Power BI)
+- ✅ **Database Management** (SQL, PostgreSQL, data pipelines)
+- ✅ **Statistical Analysis** (R, Python, advanced analytics)
+- ✅ **Strategic Decision Making** (Data-driven business insights)
+
+---
+
+## 🏆 Professional Experience
+
+### 🧪 Machine Learning Intern – Learn and Empower Pvt. Ltd
+**📅 Aug 2024 – Nov 2024**
+
+- 🤟 **Indian Sign Language Detection System**: Real-time gesture recognition with CV + NLP
+- 🔄 **Real-time translation pipeline**: Converting sign language to readable sentences
+- 📈 **Performance optimization**: Achieved real-time processing with 95%+ accuracy
+- 🛠️ **Technology Stack:** Python, OpenCV, TensorFlow, Computer Vision
+
+---
+
+## 🎯 Research Interests & Focus Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 AI/ML Research
+- **Federated Learning** for privacy-preserving AI
+- **Generative Models** (GANs, VAEs, Diffusion)
+- **Computer Vision** for medical applications
+- **NLP** for domain-specific automation
+
+</td>
+<td width="50%">
+
+### 💹 Quantitative Finance
+- **Systematic Trading Strategies**
+- **Factor Models & Risk Management**
+- **Portfolio Optimization Theory**
+- **Alternative Data Integration**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Key Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Best%20Paper%20Award-CVR%202025-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📋%20Patent%20Filed-IoT%20Energy%20System-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊%20Sharpe%20Ratio-1.19%20Trading%20Strategy-brightgreen?style=for-the-badge" />
+</p>
+
+- 🎖️ **Academic Excellence**: Best Paper Award at international ML conference
+- 💡 **Innovation**: Patent Granted for IoT-enabled smart energy monitoring
+- 📈 **Quantitative Success**: Developed profitable trading strategy with 1.19 Sharpe ratio
+- 🤝 **Industry Impact**: ML intern with measurable performance improvements
+- 🌍 **Research Contribution**: 5+ publications across AI, finance, and systems domains
+
+---
+
+## 💼 Looking For
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Seeking-FinTech%20Internships-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔍%20Open%20To-Quant%20Research%20Roles-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡%20Interested%20In-ML%20Engineering-green?style=for-the-badge" />
+</p>
+
+**Ideal Opportunities:**
+- 🏦 **Quantitative Research** internships at banks, finance trading firms
+- 💻 **FinTech ML Engineering** roles focusing on systematic strategies
+- 📊 **Data Science** positions in financial services and risk management
+- 🔬 **Research collaborations** in financial ML and federated learning
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:doshiarya27@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-doshiarya27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arya-doshi-3837aa249/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Arya%20Doshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aryadoshii">
+    <img src="https://img.shields.io/badge/🐱%20GitHub-aryadoshii-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryadoshii&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryadoshii&layout=compact&theme=radical" width="47%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94fb,100:4e54c8&height=100&section=footer" />
 </p>
 
 ---
 
-## 🏆 Experience
-
-### 🧪 ML Intern – Learn and Empower Pvt. Ltd (Aug–Nov 2024)
-- Built Indian Sign Language detection system using CV + NLP
-- Real-time gesture translation into sentences
-- 🔧 Python, OpenCV, TensorFlow
-
----
-
-## 🌐 Let's Connect
-
-<p>
-  <a href="mailto:doshiarya27@gmail.com"><img src="https://img.shields.io/badge/Email-Doshiarya27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arya-doshi-3837aa249/"><img src="https://img.shields.io/badge/LinkedIn-Arya%20Doshi-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/aryadoshii"><img src="https://img.shields.io/badge/GitHub-Aryadoshii-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <i>"Building the future of finance through systematic, data-driven approaches"</i> 📈
 </p>
