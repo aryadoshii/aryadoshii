@@ -52,8 +52,8 @@
 
 ## 🚀 Featured Projects
 
-### 💰 AlphaRank: Systematic Equity Trading Strategy
-> **Market-neutral machine learning system for S&P 100 trading with quantitative risk management**
+### 💰 QuantEdge: Equity Return Prediction using Machine Learning
+> **An end-to-end Python pipeline for forecasting stock returns and backtesting a market-neutral trading strategy**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sharpe%20Ratio-1.19-brightgreen?style=flat-square&logo=trending-up" />
