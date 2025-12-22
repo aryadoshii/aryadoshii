@@ -30,13 +30,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Specialized ML Tools:** LangChain, Hugging Face Transformers, Vector Databases, RAG Systems, Model Fine-tuning
-
-### 📊 Data Engineering & Analytics
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+**ML Tools:** LangChain, Hugging Face Transformers, Vector Databases, RAG Systems, Model Fine-tuning
 
 **Data Pipeline Tools:** ETL Pipelines, Data Warehousing, Data Modeling, Dashboarding, Excel Advanced Analytics
 
