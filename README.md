@@ -6,7 +6,6 @@
 ## 👨‍🎓 About Me
 
 - 🎓 **B.Tech in Electronics & Telecommunications @ VIT Pune (2022–2026)**
-- 🤖 **Machine Learning Intern** @ Learn and Empower Pvt. Ltd
 - 💹 **Quantitative Finance Enthusiast** building systematic trading strategies
 - 📚 Research focus: **Federated Learning**, **Generative Models**, and **Financial ML**
 - 🧑‍🏫 Active contributor to college tech communities and workshops
