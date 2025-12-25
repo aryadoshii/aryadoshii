@@ -1,16 +1,28 @@
 <div align="center">
-  
-## 🎯 ARYA DOSHI
-  
-<p align="center">
-  <a href="mailto:doshiarya27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/arya-doshi-3837aa249"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/aryadoshii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- Header with gradient wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARYA%20DOSHI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+ML%7C+SDE;Computer+Vision+%2B+NLP+%2B+GenAI;Building+Production+AI+Systems" alt="Typing SVG" />
+<br/>
+<!-- Social Badges -->
+<p>
+  <a href="mailto:doshiarya27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/arya-doshi-3837aa249">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/aryadoshii">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-┌─────────────────────────────────────────────────────────────┐
-│  Final Year @ VIT Pune  |  CGPA: 8.53  |  Graduating: May 2026  │
-│  Electronics & Telecom Engineering     │
-└─────────────────────────────────────────────────────────────┘
+<!-- Quick Stats -->
+<p>
+  <img src="https://img.shields.io/badge/🎓_VIT_Pune-CGPA_8.40-blue?style=flat-square&labelColor=1a1a1a" alt="College"/>
+  <img src="https://img.shields.io/badge/📅_Graduating-May_2026-green?style=flat-square&labelColor=1a1a1a" alt="Graduation"/>
+  <img src="https://img.shields.io/badge/💼_Electronics_%26_Telecom-AI%2FML_Focus-orange?style=flat-square&labelColor=1a1a1a" alt="Major"/>
+</p>
+<br/>
 </div>
 
 ## 🔥 WHO I AM
