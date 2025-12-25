@@ -1,215 +1,45 @@
-<!-- Profile Banner -->
+<div align="center">
+  
+## 🎯 ARYA DOSHI
+  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=160&section=header&text=Hi%20there!%20I'm%20Arya%20Doshi%20🚀&fontSize=30&fontAlignY=35&desc=Java%20%7C%20Python%20%7C%20Finance%20Enthusiast%20%7C%20Student%20Researcher&descAlignY=55" />
+  <a href="mailto:doshiarya27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/arya-doshi-3837aa249"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/aryadoshii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+┌─────────────────────────────────────────────────────────────┐
+│  Final Year @ VIT Pune  |  CGPA: 8.53  |  Graduating: May 2026  │
+│  Electronics & Telecom Engineering     │
+└─────────────────────────────────────────────────────────────┘
+</div>
 
-## 👨‍🎓 About Me
-
-- 🎓 **B.Tech in Electronics & Telecommunications @ VIT Pune (2022–2026)**
-- 💹 **Quantitative Finance Enthusiast** building systematic trading strategies
-- 📚 Research focus: **Federated Learning**, **Generative Models**, and **Financial ML**
-- 🧑‍🏫 Active contributor to college tech communities and workshops
-- 🏆 **Best Paper Award** — CVR 2025 (Emerging Technologies Category)
-
----
-
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧠 Data Science & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**ML Tools:** LangChain, Hugging Face Transformers, Vector Databases, RAG Systems, Model Fine-tuning
-
-**Data Pipeline Tools:** ETL Pipelines, Data Warehousing, Data Modeling, Dashboarding, Excel Advanced Analytics
-
-### 💹 Finance & Modeling
-![YFinance](https://img.shields.io/badge/YFinance-Financial%20Data-gold?style=for-the-badge)
-![Alpha Vantage](https://img.shields.io/badge/Alpha%20Vantage-API-green?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-Optimization-blue?style=for-the-badge)
-
-**Quantitative Finance:** Market Research, Stock Analysis, Portfolio Optimization, Investment Strategy, Risk Management, Factor Models
+## 🔥 WHO I AM
+Final-year engineering student interested in AI/ML, data science, and software development. Recently completed an internship at Aaravali Tech building computer vision models for manufacturing quality control. Built several projects spanning NLP, computer vision, and data analytics.
+Got lucky with a Best Paper award at a conference for federated learning work, and co-authored some research with industry professionals. Actively learning and building - excited about roles in ML engineering, data science, software development, and analytics.
 
 
----
-
-## 🚀 Featured Projects
-
-### 💰 QuantEdge: Equity Return Prediction using Machine Learning
-> **An end-to-end Python pipeline for forecasting stock returns and backtesting a market-neutral trading strategy**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Sharpe%20Ratio-1.19-brightgreen?style=flat-square&logo=trending-up" />
-  <img src="https://img.shields.io/badge/Max%20Drawdown-2.03%25-blue?style=flat-square&logo=shield" />
-  <img src="https://img.shields.io/badge/Hit%20Rate-51.61%25-orange?style=flat-square&logo=target" />
-</p>
-
-**🎯 Strategy:** Long-short equity portfolio using Random Forest to rank stocks by predicted 5-day returns
-- 📈 **Long** top 20% performers, **Short** bottom 20% (market-neutral approach)
-- 🧠 **30+ quantitative factors**: VIX regime, momentum, mean-reversion, volume analysis
-- ⚖️ **Risk-adjusted returns**: Isolates alpha while hedging market beta
-- 📊 **Interactive dashboard**: Real-time strategy visualization with Streamlit/Plotly
-
-**🔬 Key Innovation:** Shifted from return prediction (negative R²) to stock ranking (highly profitable)
-
-**🛠️ Tech Stack:** `Python, scikit-learn, XGBoost, pandas, yfinance, Streamlit, Plotly`
-
----
-
-### 🏥 Automated Clinical Documentation Platform
-> **Enterprise-grade NLP pipeline for clinical trial automation using large language models**
-
-- 🤖 **LLM optimization** achieving **89% reduction** in manual oversight
-- 📋 **Regulatory compliance** framework with robust assessment protocols
-- 🔄 **RESTful API** integration with containerized deployment architecture
-- 📊 **Clinical workflow automation** for pharmaceutical research environments
-
-**🛠️ Tech Stack:** `Python, LangChain, Hugging Face Transformers, Docker, FastAPI`
-
----
-
-### 📞 Intelligent Telecom Support System
-> **RAG-powered conversational AI for automated telecom diagnostics and customer support**
-
-- 🧠 **Domain-specific fine-tuning** with **43% diagnostic precision** improvement
-- 📈 **Adaptive user profiling** reducing escalation incidents by **37%**
-- 🔍 **Vector database integration** for enhanced retrieval-augmented generation
-- 🏗️ **Scalable cloud architecture** with real-time processing capabilities
-
-**🛠️ Tech Stack:** `Python, PyTorch, Vector Databases, AWS Lambda, Transformers`
-
----
-
-### 🧠 MedSynGAN: Federated Medical Image Generation
-> **Privacy-preserving GAN system for synthetic chest X-ray generation using federated learning**
-
-- 🚀 **DCGAN & ProGAN** architectures for high-quality medical image synthesis
-- 🔒 **Privacy-preserving**: Federated learning ensures data never leaves hospitals
-- 🏅 **Best Paper Award @ CVR 2025** (Emerging Technologies Category)
-- 💾 **Memory-efficient**: Optimized for resource-constrained medical environments
-
-**🛠️ Tech Stack:** `Python, TensorFlow, Flower Framework, DICOM Processing`
-
----
-
-### 💰 InvestOptimizer: Dynamic Portfolio Management
-> **Real-time investment decision system using knapsack optimization and financial APIs**
-
-- 💻 **Spring Boot backend** integrated with **Alpha Vantage API**
-- 🔗 **Full-stack solution**: RESTful APIs + React dashboard
-- 📈 **Dynamic programming** approach to maximize risk-adjusted returns
-- 🎯 **Real-time optimization** for portfolio rebalancing decisions
-
-**🛠️ Tech Stack:** `Java, Spring Boot, React, Alpha Vantage API, Dynamic Programming`
-
----
-
-### 📍 GeoEdge: Real-time Vehicle Tracking via Edge Computing
-> **Offline GPS tracking system optimized for low-latency edge processing**
-
-- 📡 **Real-time GPS analytics** with sub-second latency requirements
-- 🌐 **Edge computing architecture** for offline operation capabilities
-- 🔧 **Embedded systems integration** with Java backend processing
-- 📊 **Geospatial optimization** algorithms for efficient tracking
-
-**🛠️ Tech Stack:** `Edge Devices, Embedded C, Java, Geospatial APIs`
-
----
-
-### 🔬 Distributed Medical Image Synthesis Framework
-> **Scalable federated learning infrastructure for cross-institutional medical AI research**
-
-- 🔒 **Enhanced security**: 40% performance gains in distributed training
-- 🏥 **Cross-dataset coordination** for multi-hospital collaboration
-- 🐳 **Containerized deployment** ensuring scalable, reproducible research
-- 🧬 **Medical AI pipeline** for privacy-compliant synthetic data generation
-
-**🛠️ Tech Stack:** `Python, TensorFlow, Flower Framework, Docker, Kubernetes`
-
----
-
-## 📑 Research Publications & Patents
-
-### 📚 Recent Publications
-
-🏅 **MedSynGAN: A Federated GAN System for Generating Synthetic Medical Images**  
-*International Conference on Computer Vision and Robotics (CVR) 2025*  
-📍 *NIT GOA* | 🏆 **Best Paper Award - Emerging Technologies Category**
-
-📊 **AI and ML Models in Cross-Asset Investment Risk Analysis: Real Estate vs. Equities**  
-*International Conference on Self Sustainable Artificial Intelligence Systems 2025*  
-🎯 *Advanced portfolio optimization using Mean-Variance Optimization and ML risk models*
-
-🔒 **Intelligent Cloud CRM: Compliance Automation in Regulated Industries**  
-*International Conference on Circuits, Systems and Simulation 2025*  
-⚖️ *Security and compliance challenges in enterprise cloud CRM systems*
-
-### 🛡️ Patent Portfolio
-
-⚡ **IoT-Enabled Smart Energy Meter for Real-Time Monitoring**  
-📋 *Patent Application No. 20252100482 A*  
-📅 *Filed: 17/01/2025 | Published: 14/02/2025*  
-🏛️ *Vishwakarma Institute of Technology, Pune*
-
----
-
-## 📚 Professional Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coursera-2025-blue?style=for-the-badge&logo=coursera&logoColor=white" />
-</p>
-
-**Core Competencies Covered:**
-- ✅ **Data Visualization & Business Intelligence** (Tableau, Power BI)
-- ✅ **Database Management** (SQL, PostgreSQL, data pipelines)
-- ✅ **Statistical Analysis** (R, Python, advanced analytics)
-- ✅ **Strategic Decision Making** (Data-driven business insights)
-
----
-
-## 🏆 Professional Experience
-
-### 🧪 Machine Learning Intern – Learn and Empower Pvt. Ltd
-**📅 Aug 2024 – Nov 2024**
-
-- 🤟 **Indian Sign Language Detection System**: Real-time gesture recognition with CV + NLP
-- 🔄 **Real-time translation pipeline**: Converting sign language to readable sentences
-- 📈 **Performance optimization**: Achieved real-time processing with 95%+ accuracy
-- 🛠️ **Technology Stack:** Python, OpenCV, TensorFlow, Computer Vision
-
----
-
-## 🎯 Research Interests & Focus Areas
+## 🏆 ACHIEVEMENTS & RECOGNITION
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔬 AI/ML Research
-- **Federated Learning** for privacy-preserving AI
-- **Generative Models** (GANs, VAEs, Diffusion)
-- **Computer Vision** for medical applications
-- **NLP** for domain-specific automation
+### 🎖️ Awards & Publications
+- 🥇 **Best Paper Award** — ICCVR 2025 (MedSynGAN)
+- 📜 **Patent Published** — IoT Energy Monitor (Patent No. 20252100482 A)
+- 📊 **Co-authored** with Wellington Management AVP on cross-asset risk analysis
+- 📝 **5+ IEEE Publications** spanning AI, finance, and distributed systems
+- 🏛️ **IEEE PUNECON 2025** presenter on network resilience
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💹 Quantitative Finance
-- **Systematic Trading Strategies**
-- **Factor Models & Risk Management**
-- **Portfolio Optimization Theory**
-- **Alternative Data Integration**
+### 💼 Industry Impact
+- 🤖 **91.10% accuracy** on production CV system @ Aaravali Tech
+- 📈 **1.19 Sharpe ratio** on market-neutral equity strategy
+- 🔬 **94.7% accuracy** on clinical trial validation (87,432 records)
+- 💰 **Rs 200,000+** partnerships @ Microsoft Learn Student Club
+- ⚙️ **78% reduction** in inspection time through ML automation
 
 </td>
 </tr>
@@ -217,60 +47,245 @@
 
 ---
 
-## 🌟 Key Achievements
+## 🛠️ TECH ARSENAL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Best%20Paper%20Award-CVR%202025-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📋%20Patent%20Filed-IoT%20Energy%20System-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📊%20Sharpe%20Ratio-1.19%20Trading%20Strategy-brightgreen?style=for-the-badge" />
-</p>
+<div align="center">
 
-- 🎖️ **Academic Excellence**: Best Paper Award at international ML conference
-- 💡 **Innovation**: Patent Granted for IoT-enabled smart energy monitoring
-- 📈 **Quantitative Success**: Developed profitable trading strategy with 1.19 Sharpe ratio
-- 🤝 **Industry Impact**: ML intern with measurable performance improvements
-- 🌍 **Research Contribution**: 5+ publications across AI, finance, and systems domains
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
+### ML/AI Stack
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-## 💼 Looking For
+### Finance & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯%20Seeking-FinTech%20Internships-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔍%20Open%20To-Quant%20Research%20Roles-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡%20Interested%20In-ML%20Engineering-green?style=for-the-badge" />
-</p>
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Ideal Opportunities:**
-- 🏦 **Quantitative Research** internships at banks, finance trading firms
-- 💻 **FinTech ML Engineering** roles focusing on systematic strategies
-- 📊 **Data Science** positions in financial services and risk management
-- 🔬 **Research collaborations** in financial ML and federated learning
+</div>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:doshiarya27@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-doshiarya27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arya-doshi-3837aa249/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Arya%20Doshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aryadoshii">
-    <img src="https://img.shields.io/badge/🐱%20GitHub-aryadoshii-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Specialized Skills:** Portfolio Optimization • Systematic Trading • Factor Models • RAG Systems • Computer Vision • Federated Learning • Model Quantization • Real-time Analytics • ETL Pipelines • Statistical Arbitrage
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94fb,100:4e54c8&height=100&section=footer" />
-</p>
+## 💎 FLAGSHIP PROJECTS
+
+### 🤖 **AI-Powered Porosity Detection System** | *Production System @ Aaravali Tech*
+> **End-to-end computer vision pipeline for automotive manufacturing quality control**
+
+**The Challenge:** Detect microscopic porosity defects in engine pistons with production-grade accuracy and speed.
+
+**What I Built:**
+- ✅ **Complete ML Pipeline:** Classification → Quantization → Segmentation → Automated Annotation
+- 🎯 **91.10% Classification Accuracy** with EfficientNet-B4 optimized for edge deployment
+- 🔬 **69.44% Segmentation Dice Score** using U-Net architecture for precise defect localization
+- ⚡ **3.76× Model Compression** via INT8 quantization with only 0.35% accuracy loss
+- 🏭 **78% Reduction** in manual inspection time
+
+**Key Innovation:** Proved that architectural simplicity outperforms complexity when training with noisy labels (correlation r = -0.96), challenging conventional deep learning assumptions.
+
+**Tech:** `Python` `PyTorch` `OpenCV` `TensorRT` `FastAPI` `Docker`
 
 ---
 
-<p align="center">
-  <i>"Building the future of finance through systematic, data-driven approaches"</i> 📈
-</p>
+### 💰 **QuantEdge: Systematic Equity Trading Platform**
+> **Market-neutral long-short strategy with quantitative signals**
+
+**The Numbers:**
+```
+Sharpe Ratio:      1.19
+Max Drawdown:      2.03%
+Hit Rate:          51.61%
+Strategy:          Market-neutral long-short
+```
+
+**What It Does:**
+- 📊 **32+ Quantitative Factors:** VIX regime, momentum, mean-reversion, cross-asset correlations
+- 🎯 **Statistical Ranking:** Random Forest predicts 5-day returns → rank stocks → Long top 20% / Short bottom 20%
+- ⚖️ **Market-Neutral Construction:** Isolates alpha while hedging market beta
+- 📈 **Interactive Dashboard:** Real-time strategy visualization with Streamlit + Plotly
+
+**Key Insight:** Shifted from return prediction (negative R²) to stock ranking → transformed unprofitable model into consistently profitable strategy.
+
+**Tech:** `Python` `scikit-learn` `XGBoost` `yfinance` `Streamlit` `Plotly`
+
+---
+
+### 🏥 **TrialTransparency.AI: Clinical Documentation Intelligence**
+> **Hybrid AI system for pharmaceutical trial validation**
+
+- 🎯 **94.7% Validation Accuracy** across 87,432 clinical records
+- ⚡ **89% Query Resolution** through hierarchical AI agent architecture
+- 🔄 **Parallel Processing Pipeline:** PostgreSQL + async Python for enterprise scale
+- 🤖 **LLM Integration:** Mixtral-8x7B + RAG for regulatory compliance automation
+
+**Business Impact:** 89% reduction in manual oversight, enabling pharmaceutical companies to scale clinical documentation review without proportional headcount growth.
+
+**Tech:** `Python` `LangChain` `Hugging Face` `PostgreSQL` `FastAPI` `Docker`
+
+---
+
+### 🧠 **MedSynGAN: Federated Medical Image Generation**
+> **🏆 Best Paper Award @ ICCVR 2025 (Emerging Technologies Category)**
+
+**The Problem:** Healthcare institutions can't share medical imaging data due to HIPAA/GDPR, limiting AI model training.
+
+**The Solution:** Privacy-preserving federated GAN framework that generates synthetic medical images WITHOUT raw data leaving hospitals.
+
+- 🔒 **Privacy-First Architecture:** DCGAN + ProGAN with FedAvg coordination
+- 🏥 **Multi-Institutional Training:** Distributed learning across healthcare networks
+- 📈 **91% Diagnostic Accuracy** on synthetic chest X-rays
+- 🌐 **1024×1024 Resolution** high-quality synthesis
+
+**Impact:** Enables medical AI research while maintaining regulatory compliance, democratizing access to medical imaging datasets.
+
+**Tech:** `Python` `TensorFlow` `Flower Framework` `DICOM` `Federated Learning`
+
+**Publication:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10817878)
+
+---
+
+### 📞 **TeleTriage: AI-Powered Telecom Support System**
+> **Hierarchical troubleshooting engine with adaptive learning**
+
+- 🧠 **Three-Tier Architecture:** Instant FAQ → RAG-enhanced diagnostics → Specialized escalation
+- ⚡ **Sub-0.01s Response Time** for 67% of queries through optimized vector search
+- 📈 **37% Reduction** in escalation incidents via adaptive user profiling
+- 🔍 **Domain-Specific Fine-Tuning:** 43% improvement in diagnostic precision
+
+**System Design:** FAISS vector database + transformer models + real-time profiling = context-aware support that learns from every interaction.
+
+**Tech:** `Python` `PyTorch` `FAISS` `Transformers` `AWS Lambda`
+
+---
+
+### 📊 **Statistical Arbitrage Trading System** | *Gemscap Assessment Project*
+> **Real-time pairs trading with WebSocket feeds and statistical signals**
+
+- 📡 **Live Market Data:** Binance WebSocket → Real-time BTC/ETH tracking
+- 🧮 **Cointegration Testing:** ADF tests + OLS regression for hedge ratio calculation
+- 💹 **Automated Signal Generation:** Z-score based entry/exit with PnL tracking
+- ⚡ **High-Performance Storage:** TimescaleDB + Redis for time-series analytics
+
+**Features:** Live spread analysis, rolling correlation tracking, position simulator with real-time PnL, VaR-based risk dashboard
+
+**Tech:** `Python` `Async Programming` `TimescaleDB` `Redis` `Streamlit` `Binance API`
+
+---
+
+## 📚 RESEARCH & INTELLECTUAL PROPERTY
+
+### 📄 Published Research
+
+**MedSynGAN: Federated GAN System for Medical Image Synthesis**  
+*International Conference on Computer Vision and Robotics (CVR) 2025*  
+🏆 **Best Paper Award** — Emerging Technologies Category  
+📍 NIT Goa  
+[View Paper →](https://ieeexplore.ieee.org/document/10817878)
+
+**AI and ML Models in Cross-Asset Investment Risk Analysis**  
+*International Conference on Self-Sustainable AI Systems 2025*  
+Co-authored with Wellington Management AVP  
+**Key Finding:** REITs contribute 42.3% to portfolio volatility spillovers with 12-month transmission duration
+
+**Intelligent Cloud CRM: Compliance Automation in Regulated Industries**  
+*International Conference on Circuits, Systems and Simulation 2025*  
+Security and regulatory compliance in enterprise cloud systems
+
+### 🛡️ Patents
+
+**IoT-Enabled Smart Energy Meter for Real-Time Monitoring**  
+📋 Patent Application No. 20252100482 A  
+📅 Filed: 17/01/2025 | Published: 14/02/2025  
+🏛️ Vishwakarma Institute of Technology, Pune
+
+---
+
+## 🎓 CERTIFICATIONS & EDUCATION
+
+<table>
+<tr>
+<td width="60%">
+
+**B.Tech in Electronics & Telecommunications Engineering**  
+*Vishwakarma Institute of Technology, Pune*  
+📊 CGPA: **8.40/10.0**  
+🎓 Expected Graduation: May 2026
+
+</td>
+<td width="40%">
+
+**Professional Certifications**
+- ✅ **Financial Markets** — Yale University (Prof. Robert Shiller)
+- ✅ **Google Data Analytics Professional** — Coursera 2025
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 PROFESSIONAL EXPERIENCE
+
+### 🧪 **AI/ML Research Intern** — Aaravali Tech
+*August 2024 – November 2025 | Pune, India*
+
+Building production computer vision systems for automotive manufacturing QC:
+- Developed end-to-end porosity detection pipeline achieving 91.10% classification accuracy
+- Implemented model quantization (INT8) reducing inference time by 3.76× with <0.5% accuracy loss
+- Designed automated annotation system processing 10,000+ images with weak supervision
+- Deployed FastAPI-based inference server handling real-time quality control workflows
+
+### 🤖 **ML R&D Intern** — Learn and Empower Pvt. Ltd
+*August 2024 – November 2024 | Remote*
+
+- Built real-time Indian Sign Language detection system with 95%+ accuracy
+- Developed gesture-to-text translation pipeline using computer vision + NLP
+- Optimized OpenCV-based processing for real-time performance on edge devices
+
+### 🤝 **Partnership Lead** — Microsoft Learn Student Club, VIT Pune
+*2024 – 2025*
+
+- Secured partnerships worth **Rs 200,000+** with 80% renewal rate
+- Coordinated technical workshops and hackathons for 500+ student participants
+- Managed stakeholder relationships across corporate sponsors and academic institutions
+
+---
+
+
+## 🔗 LET'S CONNECT
+
+<div align="center">
+
+**Open to opportunities in quantitative development, systematic trading, and AI/ML engineering.**
+
+<a href="mailto:doshiarya27@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://linkedin.com/in/arya-doshi-3837aa249">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
+</a>
+<a href="https://github.com/aryadoshii">
+  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+</a>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=aryadoshii&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+
+
+</div>
