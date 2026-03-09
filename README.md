@@ -30,7 +30,7 @@
 
 Final-year B.Tech student at VIT Pune passionate about AI/ML, quantitative finance, and building production systems. Recently completed an ML internship at Aaravali Tech (computer vision for manufacturing QC), won a Best Paper Award at ICCVR 2025, and co-authored research with a Wellington Management AVP. Exploring the intersection of machine learning and systematic trading.
 
-**Highlights:** 🥇 Best Paper Award (ICCVR 2025) · 📜 Published Patent · 📝 5+ IEEE Publications · 🤖 91.1% accuracy production CV system · 📈 1.19 Sharpe ratio equity strategy
+**Highlights:** 🥇 Best Paper Award (ICCVR 2025) · 📜 Published Patent · 📝 5+ IEEE Publications ·
 
 ---
 
