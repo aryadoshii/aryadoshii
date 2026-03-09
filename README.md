@@ -15,10 +15,6 @@
 <a href="https://v0-arya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://orcid.org/0009-0007-0744-9977"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aryadoshii&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
