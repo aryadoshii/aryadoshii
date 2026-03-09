@@ -25,7 +25,7 @@
 
 ## 🔥 About Me
 
-Final-year B.Tech student at VIT Pune passionate about AI/ML, quantitative finance, and building production systems. Recently completed an ML internship at Aaravali Tech (computer vision for manufacturing QC), won a Best Paper Award at ICCVR 2025, and co-authored research with a Wellington Management AVP. Exploring the intersection of machine learning and systematic trading.
+Final-year B.Tech student at VIT Pune passionate about AI/ML, finance, and building production systems. Recently completed an ML internship at Aaravali Tech (computer vision for manufacturing QC), won a Best Paper Award at ICCVR 2025, and co-authored research with a Wellington Management AVP. Exploring the intersection of machine learning and systematic trading.
 
 | 🥇 Best Paper Award (ICCVR 2025) | 📜 Published Patent | 📝 5+ IEEE Publications | 🎓 B.Tech @ VIT Pune |
 |:---:|:---:|:---:|:---:|
@@ -93,20 +93,6 @@ Real-time crypto pairs trading with WebSocket feeds — cointegration testing, z
      
       - ---
 
-      ## 📈 GitHub Stats
-
-      <div align="center">
-
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryadoshii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryadoshii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-      <br/>
-
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryadoshii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-      </div>
-
-      ---
 
       <div align="center">
 
