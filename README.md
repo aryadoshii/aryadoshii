@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARYA%20DOSHI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+SDE;Computer+Vision+%2B+NLP+%2B+GenAI;Quantitative+Finance+%2B+Systematic+Trading;Building+Production+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+SDE;Computer+Vision+%2B+NLP+%2B+GenAI;Building+Production+AI+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -42,7 +42,7 @@ Final-year B.Tech student at VIT Pune passionate about AI/ML, finance, and build
 
 **Infrastructure & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -69,7 +69,7 @@ Market-neutral long-short strategy — **1.19 Sharpe**, **2.03% max drawdown**, 
 ### 🧠 MedSynGAN: Federated Medical Image Generation | 🏆 Best Paper @ ICCVR 2025
 Privacy-preserving federated GAN framework generating synthetic chest X-rays without raw data leaving hospitals — **91% diagnostic accuracy**, **1024x1024 resolution**. Enables medical AI research while maintaining HIPAA/GDPR compliance.
 
-`Python` `TensorFlow` `Flower Framework` `DICOM` `Federated Learning` · [IEEE Xplore →](https://ieeexplore.ieee.org/document/10817878)
+`Python` `TensorFlow` `Flower Framework` `DICOM` `Federated Learning`
 
 ---
 
@@ -82,20 +82,18 @@ Real-time crypto pairs trading with WebSocket feeds — cointegration testing, z
 
 ## 📚 Research & Publications
 
-- 🏆 **MedSynGAN** — Best Paper Award, ICCVR 2025 · [IEEE Xplore →](https://ieeexplore.ieee.org/document/10817878)
+- 🏆 **MedSynGAN** — Best Paper Award, ICCVR 2025 
 - 📊 **Cross-Asset Investment Risk Analysis** — Co-authored with Wellington Management AVP, Int'l Conf. on Self-Sustainable AI Systems 2025
-  - - ☁️ **Intelligent Cloud CRM** — Int'l Conf. on Circuits, Systems and Simulation 2025
-    - - 🛡️ **Patent:** IoT-Enabled Smart Energy Meter (No. 20252100482 A, Published Feb 2025)
-     
-      - ---
+- ☁️ **Intelligent Cloud CRM** — Int'l Conf. on Circuits, Systems and Simulation 2025
+- 🛡️ **Patent:** IoT-Enabled Smart Energy Meter (No. 20252100482 A, Published Feb 2025)
 
+---
+<div align="center">
 
-      <div align="center">
+ **Open to opportunities in ML engineering, quantitative development, and systematic trading.**
 
-      **Open to opportunities in ML engineering, quantitative development, and systematic trading.**
+*For full experience & certifications, visit my [LinkedIn](https://www.linkedin.com/in/aryadoshii/) or [Portfolio](https://v0-arya-portfolio.vercel.app/).*
 
-      *For full experience & certifications, visit my [LinkedIn](https://linkedin.com/in/arya-doshi-3837aa249) or [Portfolio](https://v0-arya-portfolio.vercel.app/).*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-      </div>
+</div>
