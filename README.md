@@ -116,7 +116,8 @@ B-tree + WAL + MVCC + LockManager + DeadlockDetector, Raft consensus protocol, J
 <div align="center">
 
 **Open to AI Engineering, Machine Learning Engineering, Quantitative Development and Research Opportunities.**
-*India · Dubai · Singapore · International*
+
+**India · Dubai · Singapore · Europe · USA**
 
 *For full experience & certifications, visit my [LinkedIn](https://www.linkedin.com/in/aryadoshii/) or [Portfolio](https://v0-arya-portfolio.vercel.app/).*
 
